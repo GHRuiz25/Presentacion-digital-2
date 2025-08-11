@@ -5,9 +5,9 @@
   --color-texto: #292929;
   --color-gradienteTarjeta-inicio: #ef473a;
   --color-gradienteTarjeta-fin: #cb2d3e;
-  --color-fondoTarjeta: white;
+  --color-fondoTarjeta: rgb(221, 233, 229);
 
-  --verdeazul: rgb(131, 169, 252);
+  --verdeazul: rgb(188, 210, 255);
   --verdeazul-claro: rgb(218, 230, 248);
   --verde-obscuro: rgb(10, 92, 160);
 

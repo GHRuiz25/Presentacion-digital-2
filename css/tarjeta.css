@@ -235,8 +235,8 @@
 
   /* Ajustes de botón "Explorar CV" */
   .tarjeta .inferior button {
-    padding: 8px 12px;
-    font-size: 0.9em;
+    padding: 8px 10px;
+    font-size: 3em;
     margin-top: 15px;
   }
 
