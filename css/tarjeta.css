@@ -114,7 +114,7 @@
 
 .tarjeta .derecha span::before {
   content: "🇲🇽 ";
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 .tarjeta .derecha span:hover {
@@ -125,7 +125,7 @@
   white-space: nowrap;
   text-align: right;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 1.3em;
   color: var(--color-texto);
 }
 
