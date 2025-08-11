@@ -52,7 +52,7 @@
 }
 
 .nombre {
-  font-size: 4em;
+  font-size: 3em;
   font-weight: var(--fuente-delgada);
   line-height: 1;
   color: white;
@@ -60,7 +60,7 @@
 
 .profesion {
   text-transform: uppercase;
-  font-size: 1.75em;
+  font-size: 1.5em;
   font-weight: var(--fuente-gruesa);
 }
 
@@ -113,8 +113,8 @@
 /* ::after - Inserta y estiliza contenido antes del contenido de un elemento */
 
 .tarjeta .derecha span::before {
-  content: "🇲🇽 ";
-  font-size: 1.3em;
+  content: "🇲🇽";
+  font-size: 1.2em;
 }
 
 .tarjeta .derecha span:hover {
@@ -125,7 +125,7 @@
   white-space: nowrap;
   text-align: right;
   text-transform: uppercase;
-  font-size: 1.3em;
+  font-size: 1.5em;
   color: var(--color-texto);
 }
 
@@ -146,7 +146,7 @@
   width: 80%;
   height: 250%;
   background: var(--gradiente-tarjeta);
-  transform: rotate(38deg);
+  transform: rotate(41deg);
   animation: girarEntrando 1s;
 }
 
